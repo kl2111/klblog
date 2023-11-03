@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>菜鸟GPT编程一百天实战 on 开亮人生</title>
+    <link>www.kailiang.life/tags/%E8%8F%9C%E9%B8%9Fgpt%E7%BC%96%E7%A8%8B%E4%B8%80%E7%99%BE%E5%A4%A9%E5%AE%9E%E6%88%98/</link>
+    <description>Recent content in 菜鸟GPT编程一百天实战 on 开亮人生</description>
+    <image>
+      <title>开亮人生</title>
+      <url>www.kailiang.life/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>www.kailiang.life/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="www.kailiang.life/tags/%E8%8F%9C%E9%B8%9Fgpt%E7%BC%96%E7%A8%8B%E4%B8%80%E7%99%BE%E5%A4%A9%E5%AE%9E%E6%88%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20231027_最近的一些编程尝试</title>
+      <link>www.kailiang.life/flash/2023-10-27_112913/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/flash/2023-10-27_112913/</guid>
+      <description>从[[20231007]]开始，通过GPT在尝试进行一些小的程序改动，有点沉迷其中，差不多20天时间。 主要完成的事项是—— hugo博客 hug</description>
+    </item>
+    
+    <item>
+      <title>20231025_将编程大化小的方式</title>
+      <link>www.kailiang.life/flash/2023-10-25_153557/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/flash/2023-10-25_153557/</guid>
+      <description>GPT的空间大化小，比如将编程，切成不同的组块来进行编程，并与GPT交互 其中的# === L1_0_Environment Setup === # === L1_2_Input Handling ===就是组块分割线。 # === L1_0_Environment Setup === import os import yaml # ===</description>
+    </item>
+    
+    <item>
+      <title>20231023_花了一天终于debug了一套脚本</title>
+      <link>www.kailiang.life/flash/2023-10-23_195042/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/flash/2023-10-23_195042/</guid>
+      <description>这套脚本程序是遵从组块化和鲁棒性的思路开发，主要用自动化处理文档—— 比如，对于md文档中某的yaml格式front matter缺失自动查询 比</description>
+    </item>
+    
+    <item>
+      <title>20231023_菜鸟GPT编程一百天微搭实战</title>
+      <link>www.kailiang.life/flash/2023-10-23_200609/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/flash/2023-10-23_200609/</guid>
+      <description>一直对于编程心心念，很喜欢想法到落地的过程，但是始终没有这样的能力。 之前也零散学习编程，但是没有很好落地。现在GPT的助力，学习门槛大大下降</description>
+    </item>
+    
+    <item>
+      <title>20231022_GPT使用方式空间大化小、时间一步步、语言实体化、上下文降冗余</title>
+      <link>www.kailiang.life/flash/2023-10-22_084007/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/flash/2023-10-22_084007/</guid>
+      <description>最近密集在使用GPT来编写脚本等程序，过程中有欣喜，也有很多无奈——感觉自己变成了debug调试员，还要哄着GPT。[[20231019_小</description>
+    </item>
+    
+    <item>
+      <title>20231021_发布了人生第一个Github程序</title>
+      <link>www.kailiang.life/flash/2023-10-21_081418/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/flash/2023-10-21_081418/</guid>
+      <description>开始学习编程，发布了人生第一个Github程序——一个修改Markdown的YAML的front matter的脚本。 虽然，当前还主要是靠GP</description>
+    </item>
+    
+    <item>
+      <title>20231021_模块化思想避免推翻重来</title>
+      <link>www.kailiang.life/flash/2023-10-21_232542/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/flash/2023-10-21_232542/</guid>
+      <description>模块化真是一个重要的思想，否则全部耦合起来，很容易全部推翻重来。今天编程踩了这个坑。</description>
+    </item>
+    
+    <item>
+      <title>20231021_解决 ModuleNotFoundError教程YAML</title>
+      <link>www.kailiang.life/flash/2023-10-21_225414/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/flash/2023-10-21_225414/</guid>
+      <description>编程过程遇到一个问题，ModuleNotFoundError: No module named &#39;yaml&#39;，当了一晚上的测试员，在GPT的帮助下解决了。让GPT自己总</description>
+    </item>
+    
+    <item>
+      <title>20231019_hugo博客统计中文字数的设置方式</title>
+      <link>www.kailiang.life/flash/2023-10-19_124153/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/flash/2023-10-19_124153/</guid>
+      <description>在hugo博客中，仅仅打开字数统计和阅读时间，对于中文的统计是不准确的。 需要在配置文件config.yml中增加语句： hasCJKLanguage: true 这样设置的原因，以</description>
+    </item>
+    
+  </channel>
+</rss>

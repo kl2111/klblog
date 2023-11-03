@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>工具即思想 on 开亮人生</title>
+    <link>www.kailiang.life/categories/%E5%B7%A5%E5%85%B7%E5%8D%B3%E6%80%9D%E6%83%B3/</link>
+    <description>Recent content in 工具即思想 on 开亮人生</description>
+    <image>
+      <title>开亮人生</title>
+      <url>www.kailiang.life/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>www.kailiang.life/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="www.kailiang.life/categories/%E5%B7%A5%E5%85%B7%E5%8D%B3%E6%80%9D%E6%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20231023_花了一天终于debug了一套脚本</title>
+      <link>www.kailiang.life/flash/2023-10-23_195042/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/flash/2023-10-23_195042/</guid>
+      <description>这套脚本程序是遵从组块化和鲁棒性的思路开发，主要用自动化处理文档—— 比如，对于md文档中某的yaml格式front matter缺失自动查询 比</description>
+    </item>
+    
+    <item>
+      <title>20231022_GPT使用方式空间大化小、时间一步步、语言实体化、上下文降冗余</title>
+      <link>www.kailiang.life/flash/2023-10-22_084007/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/flash/2023-10-22_084007/</guid>
+      <description>最近密集在使用GPT来编写脚本等程序，过程中有欣喜，也有很多无奈——感觉自己变成了debug调试员，还要哄着GPT。[[20231019_小</description>
+    </item>
+    
+    <item>
+      <title>20231012_不要在markdown中引入其他高级语法</title>
+      <link>www.kailiang.life/flash/2023-10-12_153959/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/flash/2023-10-12_153959/</guid>
+      <description>在markdown中不要引入其他的高级语法，而是在所有的markdown工具中能够查看和编辑。 否则会导致很多的迁移的问题。目前在我的笔记中，</description>
+    </item>
+    
+    <item>
+      <title>20230626_学习向量数据库的探讨</title>
+      <link>www.kailiang.life/essay/2023-06-26_learning-vector-database/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/essay/2023-06-26_learning-vector-database/</guid>
+      <description>对于一个新手，如何学习和了解向量数据库。主要是方法角度的探索。比如，我是一个文科生，毫无相关基础，目前的学习目标暂不明确，是先尽可能了解。 这</description>
+    </item>
+    
+    <item>
+      <title>20230318_阿里云OSS上传工具OSSutil</title>
+      <link>www.kailiang.life/essay/2023-03-18_aliyunoss-ossutil-terminal/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/essay/2023-03-18_aliyunoss-ossutil-terminal/</guid>
+      <description>如何在Mac系统上使用OSSutil进行文件上传到阿里云OSS？ 真是感慨，ChatGPT真是对于多方面的重塑，比如企业知识管理中的使用文档、</description>
+    </item>
+    
+    <item>
+      <title>20230318_阿里云OSS私有图床&#43;iPic图床工具（uPic-PicGo）</title>
+      <link>www.kailiang.life/essay/2023-03-18_gpt-aliyunoss-ipic-upic-picgo/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/essay/2023-03-18_gpt-aliyunoss-ipic-upic-picgo/</guid>
+      <description>如何基于阿里云OSS制作私有Markdown图床？（基于iPic/uPic/PicGo等） 本文将介绍如何结合阿里云OSS和iPic为Mark</description>
+    </item>
+    
+    <item>
+      <title>20230222_如何理解前现代主义、现代主义和后现代主义</title>
+      <link>www.kailiang.life/card/2023-02-22_how-to-understand-pre-modernism-modernism-and-postmodernism/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/card/2023-02-22_how-to-understand-pre-modernism-modernism-and-postmodernism/</guid>
+      <description>叙事疗法属于后现代主义，怎么理解这些“主义”的区别？ 这些主义本身是哲学认识论的范畴，是关于如何认识世界的思想。 一个常见的比喻是 #汤姆·安德森</description>
+    </item>
+    
+    <item>
+      <title>20210419_开智信息分析工具箱</title>
+      <link>www.kailiang.life/essay/2021-04-19_information-analysis-toolkit/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>www.kailiang.life/essay/2021-04-19_information-analysis-toolkit/</guid>
+      <description>开智信息分析工具箱。 信息分析工具箱 课程组对应概论、学术、职业、商业四个学习章节，汇总了这些领域相应的国内外优质工具和资源。期待大家共同维护，</description>
+    </item>
+    
+  </channel>
+</rss>
