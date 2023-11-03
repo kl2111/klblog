@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>微搭一百天实战 on 开亮人生</title>
-    <link>www.kailiang.life/tags/%E5%BE%AE%E6%90%AD%E4%B8%80%E7%99%BE%E5%A4%A9%E5%AE%9E%E6%88%98/</link>
+    <link>https://www.kailiang.life/tags/%E5%BE%AE%E6%90%AD%E4%B8%80%E7%99%BE%E5%A4%A9%E5%AE%9E%E6%88%98/</link>
     <description>Recent content in 微搭一百天实战 on 开亮人生</description>
     <image>
       <title>开亮人生</title>
-      <url>www.kailiang.life/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>www.kailiang.life/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.kailiang.life/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kailiang.life/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="www.kailiang.life/tags/%E5%BE%AE%E6%90%AD%E4%B8%80%E7%99%BE%E5%A4%A9%E5%AE%9E%E6%88%98/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kailiang.life/tags/%E5%BE%AE%E6%90%AD%E4%B8%80%E7%99%BE%E5%A4%A9%E5%AE%9E%E6%88%98/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>20231023_花了一天终于debug了一套脚本</title>
-      <link>www.kailiang.life/flash/2023-10-23_195042/</link>
+      <link>https://www.kailiang.life/flash/2023-10-23_195042/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>www.kailiang.life/flash/2023-10-23_195042/</guid>
+      <guid>https://www.kailiang.life/flash/2023-10-23_195042/</guid>
       <description>这套脚本程序是遵从组块化和鲁棒性的思路开发，主要用自动化处理文档—— 比如，对于md文档中某的yaml格式front matter缺失自动查询 比</description>
     </item>
     
     <item>
       <title>20231023_菜鸟GPT编程一百天微搭实战</title>
-      <link>www.kailiang.life/flash/2023-10-23_200609/</link>
+      <link>https://www.kailiang.life/flash/2023-10-23_200609/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>www.kailiang.life/flash/2023-10-23_200609/</guid>
+      <guid>https://www.kailiang.life/flash/2023-10-23_200609/</guid>
       <description>一直对于编程心心念，很喜欢想法到落地的过程，但是始终没有这样的能力。 之前也零散学习编程，但是没有很好落地。现在GPT的助力，学习门槛大大下降</description>
     </item>
     
