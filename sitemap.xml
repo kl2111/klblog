@@ -2,280 +2,289 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.kailiang.life/2025-02-24_071514/</loc>
+    <loc>http://localhost:1313/tags/essay/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025-04-18_094719/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025-03-06_085315/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025-02-24_071514/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/tags/essay/</loc>
-    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kailiang.life/tags/</loc>
-    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kailiang.life/</loc>
-    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kailiang.life/2025-02-15_175112/</loc>
+    <loc>http://localhost:1313/2025-02-15_175112/</loc>
     <lastmod>2025-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2025-01-01_032721/</loc>
+    <loc>http://localhost:1313/2025-01-01_032721/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-12-15_201627/</loc>
+    <loc>http://localhost:1313/2024-12-15_201627/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-12-01_160958/</loc>
+    <loc>http://localhost:1313/2024-12-01_160958/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-10-09_082751/</loc>
+    <loc>http://localhost:1313/2024-10-21_181110/</loc>
+    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024-10-09_082751/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-10-01_145259/</loc>
+    <loc>http://localhost:1313/2024-10-01_145259/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-09-16_183851/</loc>
+    <loc>http://localhost:1313/2024-09-16_183851/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-09-13_160623/</loc>
+    <loc>http://localhost:1313/2024-09-13_160623/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/categories/%E4%BA%BA%E7%94%9F%E5%8F%91%E5%B1%95%E5%92%A8%E8%AF%A2%E5%B8%88/</loc>
+    <loc>http://localhost:1313/categories/%E4%BA%BA%E7%94%9F%E5%8F%91%E5%B1%95%E5%92%A8%E8%AF%A2%E5%B8%88/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-09-01_205115/</loc>
+    <loc>http://localhost:1313/2024-09-01_205115/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-08-15_210353/</loc>
+    <loc>http://localhost:1313/2024-08-15_210353/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/categories/%E5%9F%8E%E5%B8%82%E6%BC%AB%E6%AD%A5%E8%80%85/</loc>
+    <loc>http://localhost:1313/categories/%E5%9F%8E%E5%B8%82%E6%BC%AB%E6%AD%A5%E8%80%85/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/categories/%E6%9D%BE%E5%BC%9B%E7%94%9F%E6%B4%BB%E5%AE%B6/</loc>
+    <loc>http://localhost:1313/categories/%E6%9D%BE%E5%BC%9B%E7%94%9F%E6%B4%BB%E5%AE%B6/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/categories/%E7%A4%BE%E4%BC%9A%E8%A7%82%E5%AF%9F%E8%80%85/</loc>
+    <loc>http://localhost:1313/categories/%E7%A4%BE%E4%BC%9A%E8%A7%82%E5%AF%9F%E8%80%85/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-08-12_115808/</loc>
+    <loc>http://localhost:1313/2024-08-12_115808/</loc>
     <lastmod>2024-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/tags/%23essay/</loc>
+    <loc>http://localhost:1313/tags/%23essay/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-07-17_204815/</loc>
+    <loc>http://localhost:1313/2024-07-17_204815/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-07-10_205842/</loc>
+    <loc>http://localhost:1313/2024-07-10_205842/</loc>
     <lastmod>2024-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-06-08_214316/</loc>
+    <loc>http://localhost:1313/2024-06-08_214316/</loc>
     <lastmod>2024-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-05-15_193706/</loc>
+    <loc>http://localhost:1313/2024-05-15_193706/</loc>
     <lastmod>2024-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-05-13_162020/</loc>
+    <loc>http://localhost:1313/2024-05-13_162020/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-04-16_155646/</loc>
+    <loc>http://localhost:1313/2024-04-16_155646/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-03-21_141511/</loc>
+    <loc>http://localhost:1313/2024-03-21_141511/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-03-21_180747/</loc>
+    <loc>http://localhost:1313/2024-03-21_180747/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/categories/%E4%BA%BA%E7%94%9F%E8%AF%BB%E8%80%85/</loc>
+    <loc>http://localhost:1313/categories/%E4%BA%BA%E7%94%9F%E8%AF%BB%E8%80%85/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-03-19_204437/</loc>
+    <loc>http://localhost:1313/2024-03-19_204437/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-03-16_speech/</loc>
+    <loc>http://localhost:1313/2024-03-16_speech/</loc>
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-03-05_221857/</loc>
+    <loc>http://localhost:1313/2024-03-05_221857/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-01-09_074026/</loc>
+    <loc>http://localhost:1313/2024-01-09_074026/</loc>
     <lastmod>2024-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2023-12-25_163408/</loc>
+    <loc>http://localhost:1313/2023-12-25_163408/</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2023-12-24_204249/</loc>
+    <loc>http://localhost:1313/2023-12-24_204249/</loc>
     <lastmod>2023-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2023-12-20_162159/</loc>
+    <loc>http://localhost:1313/2023-12-20_162159/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2023-12-20_160951/</loc>
+    <loc>http://localhost:1313/2023-12-20_160951/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2023-10-27_154043/</loc>
+    <loc>http://localhost:1313/2023-10-27_154043/</loc>
     <lastmod>2023-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-08-19_210600/</loc>
+    <loc>http://localhost:1313/2024-08-19_210600/</loc>
     <lastmod>2023-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2023-03-11_say-goodbye-maozai/</loc>
+    <loc>http://localhost:1313/2023-03-11_say-goodbye-maozai/</loc>
     <lastmod>2023-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2023-03-05_situation-important/</loc>
+    <loc>http://localhost:1313/2023-03-05_situation-important/</loc>
     <lastmod>2023-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/tags/%E5%8F%99%E4%BA%8B%E7%96%97%E6%B3%95/</loc>
+    <loc>http://localhost:1313/tags/%E5%8F%99%E4%BA%8B%E7%96%97%E6%B3%95/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2023-03-02_the-relationship-between-narrative-therapy-and-life-development-counseling/</loc>
+    <loc>http://localhost:1313/2023-03-02_the-relationship-between-narrative-therapy-and-life-development-counseling/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2023-02-28_narrative-therapy/</loc>
+    <loc>http://localhost:1313/2023-02-28_narrative-therapy/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2023-02-20_the-most-important-point-in-parental-education/</loc>
+    <loc>http://localhost:1313/2023-02-20_the-most-important-point-in-parental-education/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2023-02-06_education-and-population/</loc>
+    <loc>http://localhost:1313/2023-02-06_education-and-population/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2023-01-10_answer-2022-ask-2023/</loc>
+    <loc>http://localhost:1313/2023-01-10_answer-2022-ask-2023/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2023-01-08_social-norm/</loc>
+    <loc>http://localhost:1313/2023-01-08_social-norm/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2023-01-05_reading-summary/</loc>
+    <loc>http://localhost:1313/2023-01-05_reading-summary/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2022-summary/</loc>
+    <loc>http://localhost:1313/2022-summary/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2023-01-17_fairness-in-housework/</loc>
+    <loc>http://localhost:1313/2023-01-17_fairness-in-housework/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2022-12-04_running-schedule-summary/</loc>
+    <loc>http://localhost:1313/2022-12-04_running-schedule-summary/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2022-12-01_3683/</loc>
+    <loc>http://localhost:1313/2022-12-01_3683/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2022-11-14_spirited-away-intrinsic-motivation/</loc>
+    <loc>http://localhost:1313/2022-11-14_spirited-away-intrinsic-motivation/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2022-10-26_working-identity-reinventing-career/</loc>
+    <loc>http://localhost:1313/2022-10-26_working-identity-reinventing-career/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/categories/%E5%B7%A5%E5%85%B7%E5%8D%B3%E6%80%9D%E6%83%B3/</loc>
+    <loc>http://localhost:1313/categories/%E5%B7%A5%E5%85%B7%E5%8D%B3%E6%80%9D%E6%83%B3/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2022-08-10_8314/</loc>
+    <loc>http://localhost:1313/2022-08-10_8314/</loc>
     <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2022-06-24_the-application-of-thematic-apperception-test/</loc>
+    <loc>http://localhost:1313/2022-06-24_the-application-of-thematic-apperception-test/</loc>
     <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2022-04-26_assist-others-in-learning/</loc>
+    <loc>http://localhost:1313/2022-04-26_assist-others-in-learning/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2022-04-24_5424/</loc>
+    <loc>http://localhost:1313/2022-04-24_5424/</loc>
     <lastmod>2022-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2022-03-13_reduce-fat-scientifically/</loc>
+    <loc>http://localhost:1313/2022-03-13_reduce-fat-scientifically/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2022-02-14_early-to-bed-and-early-to-rise/</loc>
+    <loc>http://localhost:1313/2022-02-14_early-to-bed-and-early-to-rise/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2022-02-03_running-motivation/</loc>
+    <loc>http://localhost:1313/2022-02-03_running-motivation/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2022-02-11_quit-smoking/</loc>
+    <loc>http://localhost:1313/2022-02-11_quit-smoking/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2022-01-23_8568/</loc>
+    <loc>http://localhost:1313/2022-01-23_8568/</loc>
     <lastmod>2022-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2022-01-20_quit-smoking-ppt/</loc>
+    <loc>http://localhost:1313/2022-01-20_quit-smoking-ppt/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2022-01-10_quit-smoking/</loc>
+    <loc>http://localhost:1313/2022-01-10_quit-smoking/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2021-12-26_5607/</loc>
+    <loc>http://localhost:1313/2021-12-26_5607/</loc>
     <lastmod>2021-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2021-12-23_psychological-portrait/</loc>
+    <loc>http://localhost:1313/2021-12-23_psychological-portrait/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2021-08-20_1854/</loc>
+    <loc>http://localhost:1313/2021-08-20_1854/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2021-05-23_data-crawling-analysis/</loc>
+    <loc>http://localhost:1313/2021-05-23_data-crawling-analysis/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2021-04-23_information-search/</loc>
+    <loc>http://localhost:1313/2021-04-23_information-search/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2021-03-10_2020-summary/</loc>
+    <loc>http://localhost:1313/2021-03-10_2020-summary/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2021-03-07_shadow-education-business-analysis/</loc>
+    <loc>http://localhost:1313/2021-03-07_shadow-education-business-analysis/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2023-02-07_are-people-unhappy-with-chicken/</loc>
+    <loc>http://localhost:1313/2023-02-07_are-people-unhappy-with-chicken/</loc>
     <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2021-01-15_51talk-business-analysis/</loc>
+    <loc>http://localhost:1313/2021-01-15_51talk-business-analysis/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2021-01-07_laix-business-analysis/</loc>
+    <loc>http://localhost:1313/2021-01-07_laix-business-analysis/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2021-01-05_de-dao-business-analysis/</loc>
+    <loc>http://localhost:1313/2021-01-05_de-dao-business-analysis/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2021-01-01_yq-business-analysis/</loc>
+    <loc>http://localhost:1313/2021-01-01_yq-business-analysis/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2020-08-30_how-to-judge-whether-a-book-is-worth-reading/</loc>
+    <loc>http://localhost:1313/2020-08-30_how-to-judge-whether-a-book-is-worth-reading/</loc>
     <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2020-08-26_xin-dong-fang-zai-xian-business-analysis/</loc>
+    <loc>http://localhost:1313/2020-08-26_xin-dong-fang-zai-xian-business-analysis/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/tags/%E5%86%85%E5%9C%A8%E5%8A%A8%E6%9C%BA/</loc>
+    <loc>http://localhost:1313/tags/%E5%86%85%E5%9C%A8%E5%8A%A8%E6%9C%BA/</loc>
     <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2020-06-30_how-to-motivate-your-childs-intrinsic-motivation/</loc>
+    <loc>http://localhost:1313/2020-06-30_how-to-motivate-your-childs-intrinsic-motivation/</loc>
     <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/tags/%E5%BD%92%E5%B1%9E/</loc>
+    <loc>http://localhost:1313/tags/%E5%BD%92%E5%B1%9E/</loc>
     <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/tags/%E6%95%99%E8%82%B2%E6%96%B9%E5%BC%8F/</loc>
+    <loc>http://localhost:1313/tags/%E6%95%99%E8%82%B2%E6%96%B9%E5%BC%8F/</loc>
     <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/tags/%E8%83%9C%E4%BB%BB/</loc>
+    <loc>http://localhost:1313/tags/%E8%83%9C%E4%BB%BB/</loc>
     <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/tags/%E8%87%AA%E4%B8%BB/</loc>
+    <loc>http://localhost:1313/tags/%E8%87%AA%E4%B8%BB/</loc>
     <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2018-11-30_201342/</loc>
+    <loc>http://localhost:1313/2018-11-30_201342/</loc>
     <lastmod>2018-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/2024-08-29_201923/</loc>
+    <loc>http://localhost:1313/2024-08-29_201923/</loc>
     <lastmod>2018-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://www.kailiang.life/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://www.kailiang.life/2020-08-11_uncovering-the-history-of-the-nine-grade/</loc>
+    <loc>http://localhost:1313/2020-08-11_uncovering-the-history-of-the-nine-grade/</loc>
   </url>
 </urlset>
