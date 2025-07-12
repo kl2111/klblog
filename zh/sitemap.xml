@@ -2,11 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.kailiang.life/tags/essay/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.kailiang.life/publish/</loc>
-    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kailiang.life/tags/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kailiang.life/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.kailiang.life/tags/"
+                />
   </url><url>
     <loc>https://www.kailiang.life/</loc>
-    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -17,6 +33,9 @@
                 hreflang="zh-cn"
                 href="https://www.kailiang.life/"
                 />
+  </url><url>
+    <loc>https://www.kailiang.life/publish/2025-07-11_225932/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kailiang.life/other/2025-07-01_210234/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
@@ -57,27 +76,11 @@
                 href="https://www.kailiang.life/categories/"
                 />
   </url><url>
-    <loc>https://www.kailiang.life/tags/essay/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.kailiang.life/tags/life-expectancy/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kailiang.life/other/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kailiang.life/tags/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kailiang.life/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.kailiang.life/tags/"
-                />
   </url><url>
     <loc>https://www.kailiang.life/tags/%E4%B8%B9%E9%BA%A6/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
@@ -126,6 +129,21 @@
   </url><url>
     <loc>https://www.kailiang.life/tags/%E4%B8%93%E4%B8%9A%E9%80%89%E6%8B%A9/</loc>
     <lastmod>2025-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kailiang.life/tags/dark-triad/</loc>
+    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kailiang.life/other/2025-06-23_135956/</loc>
+    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kailiang.life/tags/%E9%BB%91%E6%9A%97%E4%B8%89%E8%A7%92/</loc>
+    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kailiang.life/tags/%E4%BA%BA%E6%A0%BC%E5%BF%83%E7%90%86%E5%AD%A6/</loc>
+    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kailiang.life/tags/%E5%BF%83%E7%90%86%E6%93%8D%E6%8E%A7/</loc>
+    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kailiang.life/tags/drug-facilitated-sexual-assault/</loc>
     <lastmod>2025-06-21T00:00:00+00:00</lastmod>
@@ -225,9 +243,6 @@
   </url><url>
     <loc>https://www.kailiang.life/tags/%E6%83%85%E6%84%9F%E6%93%8D%E6%8E%A7/</loc>
     <lastmod>2025-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kailiang.life/other/2025-05-19_170651/</loc>
-    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kailiang.life/publish/2025-05-16_100445/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
