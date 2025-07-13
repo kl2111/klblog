@@ -2,10 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.kailiang.life/other/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kailiang.life/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kailiang.life/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.kailiang.life/"
+                />
+  </url><url>
     <loc>https://www.kailiang.life/tags/essay/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kailiang.life/publish/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kailiang.life/tags/regulatory-capture/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kailiang.life/tags/</loc>
@@ -21,18 +40,14 @@
                 href="https://www.kailiang.life/tags/"
                 />
   </url><url>
-    <loc>https://www.kailiang.life/</loc>
+    <loc>https://www.kailiang.life/tags/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kailiang.life/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.kailiang.life/"
-                />
+  </url><url>
+    <loc>https://www.kailiang.life/tags/%E7%BD%91%E7%BB%9C%E5%B9%B3%E5%8F%B0/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kailiang.life/tags/%E6%B6%88%E8%B4%B9%E8%80%85%E6%9D%83%E7%9B%8A/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kailiang.life/publish/2025-07-11_225932/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
@@ -77,9 +92,6 @@
                 />
   </url><url>
     <loc>https://www.kailiang.life/tags/life-expectancy/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kailiang.life/other/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kailiang.life/tags/%E4%B8%B9%E9%BA%A6/</loc>
