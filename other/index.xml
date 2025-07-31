@@ -195,44 +195,5 @@
       <guid>https://www.kailiang.life/other/%E4%BA%BA%E7%94%9F%E6%88%98%E7%95%A5%E6%8C%87%E5%8D%97/20240923_%E8%B7%9F%E7%9D%80%E5%A4%A7%E5%B8%88%E5%AD%A6%E5%92%A8%E8%AF%A2-fritz-peals-%E6%80%BB%E7%BB%93/</guid>
       <description>早上讨论，我作为主持人，最后想获得大家的feedback。 本来想提的问题是：讨论中感觉最强烈的地方是什么？ 这个问题，因为具体、感性，容易回答</description>
     </item>
-    <item>
-      <title></title>
-      <link>https://www.kailiang.life/other/%E4%BA%BA%E7%94%9F%E6%88%98%E7%95%A5%E6%8C%87%E5%8D%97/convert_to_webp/venv/lib/python3.12/site-packages-2/idna-3.7.dist-info/license/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.kailiang.life/other/%E4%BA%BA%E7%94%9F%E6%88%98%E7%95%A5%E6%8C%87%E5%8D%97/convert_to_webp/venv/lib/python3.12/site-packages-2/idna-3.7.dist-info/license/</guid>
-      <description>BSD 3-Clause License
-Copyright (c) 2013-2024, Kim Davies and contributors. All rights reserved.
-Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
-Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
-Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.kailiang.life/other/%E4%BA%BA%E7%94%9F%E6%88%98%E7%95%A5%E6%8C%87%E5%8D%97/convert_to_webp/venv/lib/python3.12/site-packages/idna-3.7.dist-info/license/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.kailiang.life/other/%E4%BA%BA%E7%94%9F%E6%88%98%E7%95%A5%E6%8C%87%E5%8D%97/convert_to_webp/venv/lib/python3.12/site-packages/idna-3.7.dist-info/license/</guid>
-      <description>BSD 3-Clause License
-Copyright (c) 2013-2024, Kim Davies and contributors. All rights reserved.
-Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
-Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
-Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.kailiang.life/other/%E4%BA%BA%E7%94%9F%E6%88%98%E7%95%A5%E6%8C%87%E5%8D%97/convert_to_webp/venv/lib/python3.12/site-packages/numpy/ma/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.kailiang.life/other/%E4%BA%BA%E7%94%9F%E6%88%98%E7%95%A5%E6%8C%87%E5%8D%97/convert_to_webp/venv/lib/python3.12/site-packages/numpy/ma/readme/</guid>
-      <description>================================== A Guide to Masked Arrays in NumPy ================================== .. Contents:: See http://www.scipy.org/scipy/numpy/wiki/MaskedArray (dead link) for updates of this document. History ------- As a regular user of MaskedArray, I (Pierre G.F. Gerard-Marchant) became increasingly frustrated with the subclassing of masked arrays (even if I can only blame my inexperience). I needed to develop a class of arrays that could store some additional information along with numerical values, while keeping the possibility for missing data (picture storing a series of dates along with measurements, what would later become the `TimeSeries Scikit `__ (dead link).</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.kailiang.life/other/%E4%BA%BA%E7%94%9F%E6%88%98%E7%95%A5%E6%8C%87%E5%8D%97/convert_to_webp/venv/lib/python3.12/site-packages/numpy/random/license/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.kailiang.life/other/%E4%BA%BA%E7%94%9F%E6%88%98%E7%95%A5%E6%8C%87%E5%8D%97/convert_to_webp/venv/lib/python3.12/site-packages/numpy/random/license/</guid>
-      <description>This software is dual-licensed under the The University of Illinois/NCSA Open Source License (NCSA) and The 3-Clause BSD License
-NCSA Open Source License Copyright (c) 2019 Kevin Sheppard. All rights reserved.
-Developed by: Kevin Sheppard (kevin.sheppard@economics.ox.ac.uk, kevin.k.sheppard@gmail.com) http://www.kevinsheppard.com
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal with the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
-    </item>
   </channel>
 </rss>
