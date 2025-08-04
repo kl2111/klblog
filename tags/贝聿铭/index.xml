@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>贝聿铭 on 开亮人生</title>
+    <link>https://www.kailiang.life/tags/%E8%B4%9D%E8%81%BF%E9%93%AD/</link>
+    <description>Recent content in 贝聿铭 on 开亮人生</description>
+    <image>
+      <title>开亮人生</title>
+      <url>https://www.kailiang.life/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kailiang.life/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.kailiang.life/tags/%E8%B4%9D%E8%81%BF%E9%93%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>信息检索的训练-基于一张图片的信息搜索</title>
+      <link>https://www.kailiang.life/publish/2021-04-23_information-search/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.kailiang.life/publish/2021-04-23_information-search/</guid>
+      <description>信息检索训练的一个案例。 请阅读下面的文字，检索出从 A~H 的答案，完成一份信息分析报告，字数 500 字左右。基础目标，检索出 A 和 B 和 F 答案。进阶目标是检</description>
+    </item>
+  </channel>
+</rss>
