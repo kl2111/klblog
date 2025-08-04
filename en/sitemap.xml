@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.kailiang.life/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://www.kailiang.life/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kailiang.life/en/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://www.kailiang.life/en/speech/</loc>
+    <loc>http://localhost:1313/en/speech/</loc>
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://www.kailiang.life/speech/"
+                href="http://localhost:1313/speech/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kailiang.life/en/speech/"
+                href="http://localhost:1313/en/speech/"
                 />
   </url><url>
-    <loc>https://www.kailiang.life/en/speech/life-narrarive-speech/</loc>
+    <loc>http://localhost:1313/en/speech/life-narrarive-speech/</loc>
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kailiang.life/en/archives/</loc>
+    <loc>http://localhost:1313/en/archives/</loc>
   </url><url>
-    <loc>https://www.kailiang.life/en/categories/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://www.kailiang.life/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kailiang.life/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>https://www.kailiang.life/en/search/</loc>
+    <loc>http://localhost:1313/en/search/</loc>
   </url><url>
-    <loc>https://www.kailiang.life/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://www.kailiang.life/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kailiang.life/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url>
 </urlset>
