@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>菲教 on 开亮人生</title>
+    <link>https://www.kailiang.life/tags/%E8%8F%B2%E6%95%99/</link>
+    <description>Recent content in 菲教 on 开亮人生</description>
+    <image>
+      <title>开亮人生</title>
+      <url>https://www.kailiang.life/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kailiang.life/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.kailiang.life/tags/%E8%8F%B2%E6%95%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>51talk-如何实现盈利能否持续？</title>
+      <link>https://www.kailiang.life/publish/2021-01-15_51talk-business-analysis/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.kailiang.life/publish/2021-01-15_51talk-business-analysis/</guid>
+      <description>具体分析51talk(NYSE:COE)的盈利质量，尤其是菲教的课时费问题。本文于2021-01-15发布，因归拢资料而再次发布，有删减。 摘</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>工具即思想 on 开亮人生</title>
+    <link>https://www.kailiang.life/categories/%E5%B7%A5%E5%85%B7%E5%8D%B3%E6%80%9D%E6%83%B3/</link>
+    <description>Recent content in 工具即思想 on 开亮人生</description>
+    <image>
+      <title>开亮人生</title>
+      <url>https://www.kailiang.life/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kailiang.life/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.kailiang.life/categories/%E5%B7%A5%E5%85%B7%E5%8D%B3%E6%80%9D%E6%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>观测国际空间站的方式</title>
+      <link>https://www.kailiang.life/publish/2022-08-10_8314/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.kailiang.life/publish/2022-08-10_8314/</guid>
+      <description>Content 背景：在杂志上看到一段关于国际空间站描述 工具：https://www.heavens-above.com 选择地点： 选择过境天体 查询空间站从</description>
+    </item>
+    <item>
+      <title>爬取并分析薪酬数据及分析地案例</title>
+      <link>https://www.kailiang.life/publish/2021-05-23_data-crawling-analysis/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.kailiang.life/publish/2021-05-23_data-crawling-analysis/</guid>
+      <description>运营是不是比产品收入低？ 这只是一种感觉，一种定性的描述——所谓运营是在互联网歧视链的下端，事实怎么样，必须要数据定量的方式来回答。 过程 拉勾爬</description>
+    </item>
+    <item>
+      <title>如何读书和做读书笔记</title>
+      <link>https://www.kailiang.life/publish/2018-11-30_201342/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.kailiang.life/publish/2018-11-30_201342/</guid>
+      <description>读书难吗？难？为什么人人都说自己爱好读书。不难？为什么人人读书如抽丝。 读书的本质是什么？ 透过作者的文字表达，进入作者的思维，共情作者的现象，</description>
+    </item>
+    <item>
+      <title>数据分析能力的核心是思维</title>
+      <link>https://www.kailiang.life/publish/2024-08-29_201923/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.kailiang.life/publish/2024-08-29_201923/</guid>
+      <description>对于业务人，比如产品或运营，数据分析能力的核心不在方法和工具，而在于思维。 写在前面 大多数人错误地理解了数据分析，把数据分析能力提升的关键放在</description>
+    </item>
+  </channel>
+</rss>
